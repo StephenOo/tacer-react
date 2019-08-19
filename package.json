@@ -1,0 +1,34 @@
+{
+  "name": "tacer-react",
+  "version": "0.1.0",
+  "description": "design by stephen",
+  "scripts": {
+    "dev": "tacer-script start",
+    "start": "tacer-script start",
+    "build": "tacer-script build",
+    "test": "tacer-script test",
+    "storybook": "tacer-script storybook"
+  },
+  "author": "stephen",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
+    "styled-components": "^4.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@storybook/addon-actions": "^5.1.9",
+    "@storybook/addon-links": "^5.1.9",
+    "@storybook/react": "^5.1.9",
+    "@types/jest": "^24.0.15",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-router-dom": "^4.3.4",
+    "@types/storybook__react": "^4.0.2",
+    "@types/styled-components": "^4.1.18",
+    "tacer-template-react": "^0.3.1"
+  },
+  "keywords": []
+}
