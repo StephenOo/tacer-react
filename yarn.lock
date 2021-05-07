@@ -10322,8 +10322,10 @@ symbol.prototype.description@^1.0.0:
   dependencies:
     has-symbols "^1.0.0"
 
-"tacer-template-react@file:..":
-  version "0.2.0"
+tacer-template-react@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/tacer-template-react/-/tacer-template-react-0.3.1.tgz#15ba27b65f118aa771456f2977baa55b976fb1bd"
+  integrity sha512-qhrTZREyQF7DUQdFONo0Fd5xzrQKD40N51dXr78EFXAAFCtIgi9Osa3HojafmgAv1qPtEb13M7RiB+R/B8sYtQ==
   dependencies:
     "@storybook/addons" "^5.1.9"
     jest "^24.8.0"
@@ -10669,9 +10671,9 @@ typescript@^3.5.3:
   integrity sha512-ACzBtm/PhXBDId6a6sDJfroT2pOWt/oOnk4/dElG5G33ZL776N3Y6/6bKZJBFpd+b05F3Ct9qDjMeJmRWtE2/g==
 
 ua-parser-js@^0.7.18:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-js@3.4.x:
   version "3.4.10"
