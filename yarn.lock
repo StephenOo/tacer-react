@@ -10322,8 +10322,10 @@ symbol.prototype.description@^1.0.0:
   dependencies:
     has-symbols "^1.0.0"
 
-"tacer-template-react@file:..":
-  version "0.2.0"
+tacer-template-react@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/tacer-template-react/-/tacer-template-react-0.3.1.tgz#15ba27b65f118aa771456f2977baa55b976fb1bd"
+  integrity sha512-qhrTZREyQF7DUQdFONo0Fd5xzrQKD40N51dXr78EFXAAFCtIgi9Osa3HojafmgAv1qPtEb13M7RiB+R/B8sYtQ==
   dependencies:
     "@storybook/addons" "^5.1.9"
     jest "^24.8.0"
@@ -10477,9 +10479,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
